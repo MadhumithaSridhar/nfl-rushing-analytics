@@ -4,6 +4,8 @@
 
 This project explores how player speed, field position, and defensive alignment affect the success of rushing plays in the NFL. Using player tracking data from the [NFL Big Data Bowl 2020](https://www.kaggle.com/competitions/nfl-big-data-bowl-2020/data), we investigate which factors most influence the number of yards gained during a rushing play.
 
+📄 [View Full Report (PDF)](nfl_rushing_analysis.pdf)
+
 ### 🔍 Research Question
 
 How do a player’s **speed**, **position on the field**, and **the number of defenders in the box** influence the outcome of a rushing play?
@@ -61,4 +63,5 @@ How do a player’s **speed**, **position on the field**, and **the number of de
 ### ✅ Conclusion
 
 This project highlights that **rushing success is multi-dimensional**. While player speed is a factor, it's the **combination of position, play context, and defensive setup** that truly drives performance. These insights can help NFL analysts design smarter offensive strategies tailored to player strengths and defensive weaknesses.
+
 
